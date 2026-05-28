@@ -4,7 +4,7 @@ import random
 
 # Configuration
 YOUTUBE_URL = "rtmp://a.rtmp.youtube.com/live2"
-STREAM_KEY = "PASTE_YOUR_STREAM_KEY_HERE"  # Apni copied YouTube Stream Key yahan daalein
+STREAM_KEY = "hcay-qz1v-61gm-3hb2-0eke"  # Apni copied YouTube Stream Key yahan daalein
 
 songs = ["1.mp3", "2.mp3", "3.mp3", "4.mp3", "5.mp3"]
 background_photo = "photo.jpg"
