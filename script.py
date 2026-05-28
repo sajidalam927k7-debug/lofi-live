@@ -4,7 +4,7 @@ import subprocess
 
 # Live Stream Settings
 YOUTUBE_URL = "rtmp://a.rtmp.youtube.com/live2"
-STREAM_KEY = "PASTE_YOUR_STREAM_KEY_HERE"  # <-- YAHAN APNI YOUTUBE KEY PASTE KARO!
+STREAM_KEY = "hcay-qz1v-61gm-3hb2-0eke"  # <-- YAHAN APNI YOUTUBE KEY PASTE KARO!
 
 def start_lofi_stream():
     songs = ["1.mp3", "2.mp3", "3.mp3", "4.mp3", "5.mp3"]
