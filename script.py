@@ -36,5 +36,5 @@ def start_lofi_stream():
                 print("Koi file missing hai, check karo Sajid bhai!")
                 break
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     start_lofi_stream()
